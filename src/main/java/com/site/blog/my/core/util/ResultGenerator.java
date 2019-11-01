@@ -5,9 +5,9 @@ import org.springframework.util.StringUtils;
 /**
  * 响应结果生成工具
  *
- * @author 13
+ * @author
  * @qq交流群 796794009
- * @email 2449207463@qq.com
+ * @email 973446095@qq.com
  * @link http://13blog.site
  */
 public class ResultGenerator {

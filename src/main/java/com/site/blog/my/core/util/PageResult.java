@@ -6,9 +6,9 @@ import java.util.List;
 /**
  * 分页工具类
  *
- * @author 13
+ * @author
  * @qq交流群 796794009
- * @email 2449207463@qq.com
+ * @email 973446095@qq.com
  * @link http://13blog.site
  */
 public class PageResult implements Serializable {
