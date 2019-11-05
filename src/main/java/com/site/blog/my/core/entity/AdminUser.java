@@ -57,7 +57,7 @@ public class AdminUser {
         sb.append(getClass().getSimpleName());
         sb.append(" [");
         sb.append("Hash = ").append(hashCode());
-        sb.append(", adminUserId=").append(adminUserId);
+        sb.append(", a1229dminUserId=").append(adminUserId);
         sb.append(", loginUserName=").append(loginUserName);
         sb.append(", loginPassword=").append(loginPassword);
         sb.append(", nickName=").append(nickName);
